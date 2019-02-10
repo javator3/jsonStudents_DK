@@ -14,7 +14,7 @@ public class SaveStudent {
         List<Student> students = new ArrayList<>();
 
         students.add(new Student("Tomasz", "Mórawski", 24423));
-        students.add(new Student("Damain", "Kolczyński", 32123));
+        students.add(new Student("Damian", "Kolczyński", 32123));
         students.add(new Student("Monika", "Brzykcy", 53234));
         students.add(new Student("Daria", "Kowalska", 7239));
         students.add(new Student("Adam", "Woaźniak", 45332));
