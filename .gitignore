@@ -1,2 +1,5 @@
 .idea/
 *.iml
+readstudent/target/generated-sources/
+savestudent/target/generated-sources/
+studentmodel/target/generated-sources/
